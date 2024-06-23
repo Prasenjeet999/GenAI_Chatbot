@@ -10,6 +10,9 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv      #To load all environment variables
 
+from langchain_community.vectorstores import faiss
+
+
 
 # loading the environment
 load_dotenv()
