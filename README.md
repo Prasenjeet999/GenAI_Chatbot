@@ -1,7 +1,7 @@
 # GenAI_Chatbot: PDFs Conversational Assistant
 GenAI Chatbot that can take your pdf docs and give you insights.
 
-This project provides a conversational assistant for interacting with PDF files using Generative AI (Google Gemini). With this tool, you can upload PDF files and ask questions based on their content, receiving detailed and accurate responses.
+This project provides a conversational assistant for interacting with PDF files using **Generative AI (Google Gemini 1.0 Pro)**. With this tool, you can upload PDF files and ask questions based on their content, receiving detailed and accurate responses.
 
 - Watch the demo video below to see the application in action:
 <div align="left">
