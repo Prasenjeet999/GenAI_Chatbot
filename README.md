@@ -3,7 +3,7 @@ GenAI Chatbot that can take your pdf docs and give you insights.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=Fk7RO0Z5Rrg">
-    <img src="https://img.youtube.com/vi/Fk7RO0Z5Rrg/0.jpg" alt="Watch the video" style="width:100%; max-width:600px;">
+    <img src="https://img.youtube.com/vi/Fk7RO0Z5Rrg/0.jpg" alt="Watch the video" style="width:70%; max-width:600px;">
   </a>
 </div>
 
