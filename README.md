@@ -3,12 +3,13 @@ GenAI Chatbot that can take your pdf docs and give you insights.
 
 This project provides a conversational assistant for interacting with PDF files using Google Generative AI. With this tool, you can upload PDF files and ask questions based on their content, receiving detailed and accurate responses.
 
-Watch the demo video below to see the application in action:
+- Watch the demo video below to see the application in action:
 <div align="left">
   <a href="https://www.youtube.com/watch?v=b33nWBskZ10">
     <img src="https://img.youtube.com/vi/b33nWBskZ10/maxresdefault.jpg" alt="Watch the video" style="width:70%; max-width:600px;">
   </a>
 </div>
+
 ## Features
 - Upload multiple PDF files.
 - Extract and split text from PDF files into manageable chunks.
