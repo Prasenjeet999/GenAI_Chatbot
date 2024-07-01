@@ -1,9 +1,9 @@
 # GenAI_Chatbot: PDFs Conversational Assistant
 GenAI Chatbot that can take your pdf docs and give you insights.
 
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/watch?v=b33nWBskZ10">
-    <img src="https://img.youtube.com/vi/b33nWBskZ10/maxresdefault.jpg" alt="Watch the video" style="width:100%; max-width:600px;">
+    <img src="https://img.youtube.com/vi/b33nWBskZ10/maxresdefault.jpg" alt="Watch the video" style="width:70%; max-width:600px;">
   </a>
 </div>
 
